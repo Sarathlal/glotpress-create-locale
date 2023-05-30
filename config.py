@@ -12,4 +12,8 @@ class Config:
     """
     # Default settings
     SITE_URL = os.getenv('SITE_URL', default='')
+    ADMIN_URL = os.getenv('SITE_URL') + '/wp-login.php'
+
+    USER_NAME = os.getenv('USER_NAME')
+    PASSWORD = os.getenv('PASSWORD')
     # DEBUG = False
