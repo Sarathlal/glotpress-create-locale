@@ -1,0 +1,246 @@
+aa,Afar
+ae,Avestan
+af,Afrikaans
+ak,Akan
+am,Amharic
+an,Aragonese
+ar,Arabic
+arq,Algerian Arabic
+art-xemoji,Emoji
+ary,Moroccan Arabic
+as,Assamese
+ast,Asturian
+av,Avaric
+ay,Aymara
+az,Azerbaijani
+az-tr,Azerbaijani (Turkey)
+azb,South Azerbaijani
+ba,Bashkir
+bal,Catalan (Balear)
+bcc,Balochi Southern
+bel,Belarusian
+bg,Bulgarian
+bgn,Western Balochi
+bh,Bihari
+bho,Bhojpuri
+bi,Bislama
+bm,Bambara
+bn,Bengali (Bangladesh)
+bn-in,Bengali (India)
+bo,Tibetan
+br,Breton
+brx,Bodo
+bs,Bosnian
+ca,Catalan
+ca-valencia,Catalan (Valencian)
+ce,Chechen
+ceb,Cebuano
+ch,Chamorro
+ckb,Kurdish (Sorani)
+co,Corsican
+cor,Cornish
+cr,Cree
+cs,Czech
+csb,Kashubian
+cu,Church Slavic
+cv,Chuvash
+cy,Welsh
+da,Danish
+de,German
+de-at,German (Austria)
+de-ch,German (Switzerland)
+dsb,Lower Sorbian
+dv,Dhivehi
+dzo,Dzongkha
+ee,Ewe
+el,Greek
+el-po,Greek (Polytonic)
+en,English
+en-au,English (Australia)
+en-ca,English (Canada)
+en-gb,English (UK)
+en-nz,English (New Zealand)
+en-za,English (South Africa)
+eo,Esperanto
+es,Spanish (Spain)
+es-ar,Spanish (Argentina)
+es-cl,Spanish (Chile)
+es-co,Spanish (Colombia)
+es-cr,Spanish (Costa Rica)
+es-do,Spanish (Dominican Republic)
+es-ec,Spanish (Ecuador)
+es-gt,Spanish (Guatemala)
+es-hn,Spanish (Honduras)
+es-mx,Spanish (Mexico)
+es-pe,Spanish (Peru)
+es-pr,Spanish (Puerto Rico)
+es-us,Spanish (US)
+es-uy,Spanish (Uruguay)
+es-ve,Spanish (Venezuela)
+et,Estonian
+eu,Basque
+fa,Persian
+fa-af,Persian (Afghanistan)
+fi,Finnish
+fj,Fijian
+fo,Faroese
+fon,Fon
+fr,French (France)
+fr-be,French (Belgium)
+fr-ca,French (Canada)
+fr-ch,French (Switzerland)
+frp,Arpitan
+fuc,Fulah
+ful,Fula
+fur,Friulian
+fy,Frisian
+ga,Irish
+gax,Borana-Arsi-Guji Oromo
+gd,Scottish Gaelic
+gl,Galician
+gn,Guaraní
+gsw,Swiss German
+gu,Gujarati
+ha,Hausa (Arabic)
+hat,Haitian Creole
+hau,Hausa
+haw,Hawaiian
+haz,Hazaragi
+he,Hebrew
+hi,Hindi
+hr,Croatian
+hsb,Upper Sorbian
+hu,Hungarian
+hy,Armenian
+ia,Interlingua
+ibo,Igbo
+id,Indonesian
+ido,Ido
+ike,Inuktitut
+ilo,Iloko
+is,Icelandic
+it,Italian
+ja,Japanese
+jv,Javanese
+ka,Georgian
+kaa,Karakalpak
+kab,Kabyle
+kal,Greenlandic
+kin,Kinyarwanda
+kir,Kyrgyz
+kk,Kazakh
+km,Khmer
+kmr,Kurdish (Kurmanji)
+kn,Kannada
+ko,Korean
+ks,Kashmiri
+la,Latin
+lb,Luxembourgish
+li,Limburgish
+lij,Ligurian
+lin,Lingala
+lmo,Lombard
+lo,Lao
+lt,Lithuanian
+lug,Luganda
+lv,Latvian
+mai,Maithili
+me,Montenegrin
+mfe,Mauritian Creole
+mg,Malagasy
+mhr,Mari (Meadow)
+mk,Macedonian
+ml,Malayalam
+mlt,Maltese
+mn,Mongolian
+mr,Marathi
+mri,Maori
+mrj,Mari (Hill)
+ms,Malay
+mwl,Mirandese
+mya,Myanmar (Burmese)
+nb,Norwegian (Bokmål)
+ne,Nepali
+nl,Dutch
+nl-be,Dutch (Belgium)
+nn,Norwegian (Nynorsk)
+no,Norwegian
+nqo,N’ko
+nso,Northern Sotho
+oci,Occitan
+orm,Oromo
+ory,Oriya
+os,Ossetic
+pa,Panjabi (India)
+pa-pk,Punjabi (Pakistan)
+pap-aw,Papiamento (Aruba)
+pap-cw,Papiamento (Curaçao and Bonaire)
+pcd,Picard
+pcm,Nigerian Pidgin
+pirate,English (Pirate)
+pl,Polish
+ps,Pashto
+pt,Portuguese (Portugal)
+pt-ao,Portuguese (Angola)
+pt-ao90,Portuguese (Portugal AO90)
+pt-br,Portuguese (Brazil)
+rhg,Rohingya
+ro,Romanian
+roh,Romansh
+ru,Russian
+rue,Rusyn
+rup,Aromanian
+sa-in,Sanskrit
+sah,Sakha
+scn,Sicilian
+si,Sinhala
+sk,Slovak
+skr,Saraiki
+sl,Slovenian
+sna,Shona
+snd,Sindhi
+so,Somali
+sq,Albanian
+sq-xk,Shqip (Kosovo)
+sr,Serbian
+srd,Sardinian
+ssw,Swati
+su,Sundanese
+sv,Swedish
+sw,Swahili
+syr,Syriac
+szl,Silesian
+ta,Tamil
+ta-lk,Tamil (Sri Lanka)
+tah,Tahitian
+te,Telugu
+tg,Tajik
+th,Thai
+tir,Tigrinya
+tl,Tagalog
+tlh,Klingon
+tr,Turkish
+tt,Tatar
+tuk,Turkmen
+twd,Tweants
+tzm,Tamazight (Central Atlas)
+udm,Udmurt
+ug,Uighur
+uk,Ukrainian
+ur,Urdu
+uz,Uzbek
+vec,Venetian
+vi,Vietnamese
+wa,Walloon
+wol,Wolof
+xho,Xhosa
+xmf,Mingrelian
+yi,Yiddish
+yor,Yoruba
+zgh,Tamazight
+zh,Chinese
+zh-cn,Chinese (China)
+zh-hk,Chinese (Hong Kong)
+zh-sg,Chinese (Singapore)
+zh-tw,Chinese (Taiwan)
+zul,Zulu
